@@ -1,4 +1,4 @@
--- zawartosc kodu 
+-- zawartosc kodu aleks mazur 16
 SELECT 
     clients.id AS klient_id,
     clients.first_name,
